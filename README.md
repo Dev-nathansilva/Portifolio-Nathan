@@ -1,6 +1,6 @@
 <h1 align="center"> Portfólio - Nathan⚓ </h1>
 
-![Portifolio-concluído](https://github.com/Dev-nathansilva/Portifolio-Nathan/assets/124079997/d7167e0d-43f8-4c36-9c72-4eb930e6b2a2)
+![Portifolio-concluido](https://github.com/Dev-nathansilva/Portifolio-Nathan/assets/124079997/2acb9200-fcfd-4a2c-ac5a-6f2a47421851)
 
 
 <p align="center"><a href="https://dev-nathansilva.github.io/Portifolio-Nathan/PORTIFOLIO/index.html">Clique aqui</a> para ver o projeto.</p>
